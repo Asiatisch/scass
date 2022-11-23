@@ -1,0 +1,8 @@
+$primary: rgb(94, 21, 253);
+$secondary: rgb(94, 94, 255);
+//variables
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+//custom colours
+$custom-colors: ( "contrast": rgb(255, 255, 0));
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
